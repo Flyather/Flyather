@@ -1,4 +1,4 @@
-Hello! THis is my script for doors⬇️
+Hello! THis is my script for doors(rooms)⬇️
 
 local library = loadstring(game:HttpGet("https://pastebin.com/raw/RvJ0qewm", true))()
 local main = library:CreateWindow("FlyatherHub")
